@@ -4,6 +4,7 @@ Data Science Intern Case Study I Side Effect Data: Exploratory Data Analysis and
 ## Author
 
 •⁠  ⁠Name: Deniz Ağar
+
 •⁠  ⁠Email: deniz.agar20@gmail.com
 
 
