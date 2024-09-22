@@ -65,10 +65,15 @@ Note: Make sure you have Python 3.x installed and the necessary libraries (panda
 The project requires the following Python libraries:
 
 ⁠pandas
+
 matplotlib
+
 seaborn
+
 missingno
+
 scikit-learn
+
 numpy
 
 ## Results and Findings
