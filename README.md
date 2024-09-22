@@ -17,8 +17,11 @@ This project focuses on exploratory data analysis (EDA) and visualization tasks 
 The project consists of the following files:
 
 Task1_EDA.py ⁠: Python script for performing exploratory data analysis (EDA) on the dataset in Task 1.
+
 Task1_AllVisualizations.py ⁠: Python script that generates all the visualizations for Task 1 in a single output.
+
 Task2.py ⁠: Python script for data analysis related to Task 2, including statistical testing and preprocessing.
+
 Task2_AllVisualizations.py ⁠: Python script that generates all visualizations for Task 2 in a single output.
 
 ## How to Run the Project
